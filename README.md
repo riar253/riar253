@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hi I'm Ria, a software engineer with experience building scalable systems, full-stack web applications, and conducting applied research in AI. I have experience interning at Amazon (3x), Accenture, and UC Davis, where I created software to solve complex problems. I'm currently a Computer Science Peer Advisor at UC Davis, mentoring students and leading department initiatives. I'm passionate about creating impactful, user-focused technology and fostering collaborative, inclusive environments.
+
+## Main Technical Skills
+**Programming languages:** C/C++, Python, SQL, Bash, Java, JavaScript, HTML, CSS, Risc-V Assembly, Go, Lisp <br>
+**Frameworks/Technologies:** AWS, Git, React.js, Node.js, Express.js, REST APIs, Jira
+
 <!--
 **riar253/riar253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
